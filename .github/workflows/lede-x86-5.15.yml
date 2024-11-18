@@ -10,7 +10,7 @@
 # See /LICENSE for more information.
 #
 
-name: 编译lede x86_64 OpenClash Passwall Passwall2 v2raya
+name: 编译lede x86_64-5.15 OpenClash Passwall Passwall2
 
 on:
   repository_dispatch:
