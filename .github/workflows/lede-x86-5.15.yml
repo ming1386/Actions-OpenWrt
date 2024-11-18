@@ -20,7 +20,7 @@ env:
   REPO_URL: https://github.com/ming1386/lede
   REPO_BRANCH: master
   FEEDS_CONF: feeds.conf.default
-  CONFIG_FILE: lede/x86new.config
+  CONFIG_FILE: lede/5.15-OpenClash-passwall-all-passwall2.config
   DIY_P1_SH: lede/diy-part1.sh
   DIY_P2_SH: lede/diy-part2.sh
   UPLOAD_BIN_DIR: false
